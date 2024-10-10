@@ -1,4 +1,4 @@
-### Quadro geral:
+### Quadro geral do projeto:
 1. **Obtenção dos dados**:
    - Carregamento e visualização inicial dos dados.
 
